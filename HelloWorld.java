@@ -5,6 +5,7 @@ public class HelloWorld {
         System.out.println("Hello World!");
         System.out.println("Welcome to DSCC!");
         System.out.println("Docker container is running successfully!");
+        System.out.println("Updated through Jenkins CI/CD Pipeline!");
 
     }
 }
